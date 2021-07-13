@@ -1,0 +1,1 @@
+import{l as s,f as n,G as a}from"./framework.5c8a4622.js";const t='{"title":"baseParse 解析生成 AST","description":"","frontmatter":{},"relativePath":"chapter2/baseParse.md","lastUpdated":1601182295490}',p={},o=a('',9);p.render=function(a,t,p,e,c,l){return s(),n("div",null,[o])};export default p;export{t as __pageData};
